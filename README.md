@@ -1,6 +1,6 @@
 #Jogos em Javascript
 
-Rápida descrição do objetivo de fazer esse projeto
+Me aprofundando mais em Javascript e conhecendo mais sobre lógica de programação!
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
