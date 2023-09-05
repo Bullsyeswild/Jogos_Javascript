@@ -1,4 +1,4 @@
-# Nome do meu projeto
+#Jogos em Javascript
 
 Rápida descrição do objetivo de fazer esse projeto
 
@@ -6,11 +6,11 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | Jogos em Javascript
 | :label: Tecnologias | Javascript
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://editor.p5js.org/Bullsyeswild/collections/DvXUaKEHU
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Captura de tela 2023-09-05 193235](https://github.com/Bullsyeswild/Jogos_Javascript/assets/127852691/333ae246-dfc0-4686-8685-1fa32410770f)
+![Captura de tela 2023-09-05 193304](https://github.com/Bullsyeswild/Jogos_Javascript/assets/127852691/1a6ec09f-ad10-44e0-956e-72326eabf3ab)
 
 ## Detalhes do projeto
 
