@@ -14,4 +14,6 @@ Me aprofundando mais em Javascript e conhecendo mais sobre lógica de programaç
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Realizei 2 jogos para aprender mais sobre a linguagem, sendo eles o Jogo Pong e o Freeway. 
+Aprendi muito sobre o desenvolvimento e sobre a lógica por trás de cada elemento do jogo, o que me impulsionou 
+a continuar estudando e desenvolvendo novos projetos. Espero que gostem!
