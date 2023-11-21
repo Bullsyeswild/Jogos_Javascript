@@ -8,8 +8,9 @@ Me aprofundando mais em Javascript e conhecendo mais sobre lógica de programaç
 | :label: Tecnologias | Javascript
 | :rocket: URL         | https://editor.p5js.org/Bullsyeswild/collections/DvXUaKEHU
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Captura de tela 2023-09-05 193235](https://github.com/Bullsyeswild/Jogos_Javascript/assets/127852691/333ae246-dfc0-4686-8685-1fa32410770f#vitrinedev)
+
+https://github.com/Bullsyeswild/Jogos_Javascript/assets/127852691/f61cf0ff-62ec-4505-a038-a04185e6a9c0
+
 
 ## Detalhes do projeto
 
